@@ -27,8 +27,8 @@ function App() {
 
         <hr />
         <Switch>
-          <Route path='/opzbuddy' component={OpzBuddy} />
-          <Route path='/opzbuddy/privacypolicy' component={OpzBuddyPrivacyPolicy} />
+          <Route path={process.env.PUBLIC_URL + '/opzbuddy'} component={OpzBuddy} />
+          <Route path={process.env.PUBLIC_URL +'/opzbuddy/privacypolicy'} component={OpzBuddyPrivacyPolicy} />
         </Switch>
       </div>
     </Router>
