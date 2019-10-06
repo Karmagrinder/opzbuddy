@@ -18,8 +18,8 @@ function App() {
           <div>
             <Container>
               <Row>
-                <Col><Link to={'/opzbuddy'} className="nav-link">OP-Z Buddy</Link></Col>
-                <Col><Link to={'/opzbuddy/privacypolicy'} className="nav-link">Privacy Policy</Link></Col>
+                <Col><Link to={process.env.PUBLIC_URL + '/opzbuddy'} className="nav-link">OP-Z Buddy</Link></Col>
+                <Col><Link to={process.env.PUBLIC_URL + '/opzbuddy/privacypolicy'} className="nav-link">Privacy Policy</Link></Col>
               </Row>
             </Container> 
           </div>
