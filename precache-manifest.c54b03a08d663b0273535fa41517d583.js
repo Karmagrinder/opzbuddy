@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b069177b40880a00fa488605fd194e65",
+    "revision": "b7f8ed3d80c226aedbbaa3830087acb9",
     "url": "/opzbuddy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/opzbuddy/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "7bf3b962ee1c714fc78e",
+    "revision": "d89ad973f6a80ded52d7",
     "url": "/opzbuddy/static/css/main.626ebaa7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/opzbuddy/static/js/2.2ba041d9.chunk.js"
   },
   {
-    "revision": "7bf3b962ee1c714fc78e",
-    "url": "/opzbuddy/static/js/main.c414ac32.chunk.js"
+    "revision": "d89ad973f6a80ded52d7",
+    "url": "/opzbuddy/static/js/main.236b4216.chunk.js"
   },
   {
     "revision": "b07f2ebc339068e047ec",
