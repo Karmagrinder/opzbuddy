@@ -25,7 +25,7 @@ function App() {
             </Container> 
           </div>
         </header>
-                
+
         <hr />
         <Switch>
           <Route exact path='/' component={Home} />

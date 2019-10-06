@@ -7,7 +7,7 @@ const OpzBuddyPrivacyPolicy = props => (
 	<div className="Privacy-policy">
 		<Media>
 			<Media.Body>
-				<h5>OP-Z Buddy Privacy Policy</h5>
+				<h4>OP-Z Buddy Privacy Policy</h4>
 				<p>
 					OP-Z Buddy app, does not collect or store user's data other than the internal memory of the device on which application is running (i.e user's personal device).
 				</p>
