@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/opzbuddy/static/css/main.626ebaa7.chunk.css",
-    "main.js": "/opzbuddy/static/js/main.19fde54b.chunk.js",
-    "main.js.map": "/opzbuddy/static/js/main.19fde54b.chunk.js.map",
+    "main.js": "/opzbuddy/static/js/main.350d7e4d.chunk.js",
+    "main.js.map": "/opzbuddy/static/js/main.350d7e4d.chunk.js.map",
     "runtime-main.js": "/opzbuddy/static/js/runtime-main.83e9ef42.js",
     "runtime-main.js.map": "/opzbuddy/static/js/runtime-main.83e9ef42.js.map",
     "static/css/2.0624914a.chunk.css": "/opzbuddy/static/css/2.0624914a.chunk.css",
-    "static/js/2.70facd1b.chunk.js": "/opzbuddy/static/js/2.70facd1b.chunk.js",
-    "static/js/2.70facd1b.chunk.js.map": "/opzbuddy/static/js/2.70facd1b.chunk.js.map",
+    "static/js/2.4713a536.chunk.js": "/opzbuddy/static/js/2.4713a536.chunk.js",
+    "static/js/2.4713a536.chunk.js.map": "/opzbuddy/static/js/2.4713a536.chunk.js.map",
     "index.html": "/opzbuddy/index.html",
-    "precache-manifest.108b7e14a822ba47fc7cd81a22a719f6.js": "/opzbuddy/precache-manifest.108b7e14a822ba47fc7cd81a22a719f6.js",
+    "precache-manifest.19cbcbd4a8ca4e3153048d5173edb9cd.js": "/opzbuddy/precache-manifest.19cbcbd4a8ca4e3153048d5173edb9cd.js",
     "service-worker.js": "/opzbuddy/service-worker.js",
     "static/css/2.0624914a.chunk.css.map": "/opzbuddy/static/css/2.0624914a.chunk.css.map",
     "static/css/main.626ebaa7.chunk.css.map": "/opzbuddy/static/css/main.626ebaa7.chunk.css.map",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.83e9ef42.js",
     "static/css/2.0624914a.chunk.css",
-    "static/js/2.70facd1b.chunk.js",
+    "static/js/2.4713a536.chunk.js",
     "static/css/main.626ebaa7.chunk.css",
-    "static/js/main.19fde54b.chunk.js"
+    "static/js/main.350d7e4d.chunk.js"
   ]
 }
