@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/karmagrinder/static/css/main.626ebaa7.chunk.css",
+    "main.js": "/karmagrinder/static/js/main.ca5f0fcc.chunk.js",
+    "main.js.map": "/karmagrinder/static/js/main.ca5f0fcc.chunk.js.map",
+    "runtime-main.js": "/karmagrinder/static/js/runtime-main.250b7f24.js",
+    "runtime-main.js.map": "/karmagrinder/static/js/runtime-main.250b7f24.js.map",
+    "static/css/2.0624914a.chunk.css": "/karmagrinder/static/css/2.0624914a.chunk.css",
+    "static/js/2.f4f06e32.chunk.js": "/karmagrinder/static/js/2.f4f06e32.chunk.js",
+    "static/js/2.f4f06e32.chunk.js.map": "/karmagrinder/static/js/2.f4f06e32.chunk.js.map",
+    "index.html": "/karmagrinder/index.html",
+    "precache-manifest.ad5399c82a041fe0e6ffbf764d3009d0.js": "/karmagrinder/precache-manifest.ad5399c82a041fe0e6ffbf764d3009d0.js",
+    "service-worker.js": "/karmagrinder/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/karmagrinder/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.626ebaa7.chunk.css.map": "/karmagrinder/static/css/main.626ebaa7.chunk.css.map",
+    "static/media/sineWave.svg": "/karmagrinder/static/media/sineWave.fba70051.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.250b7f24.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.f4f06e32.chunk.js",
+    "static/css/main.626ebaa7.chunk.css",
+    "static/js/main.ca5f0fcc.chunk.js"
+  ]
+}
