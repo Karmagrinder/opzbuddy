@@ -18,9 +18,8 @@ function App() {
           <div>
             <Container>
               <Row>
-                <Col><Link to={'/'} className="nav-link"> Home </Link></Col>
                 <Col><Link to={'/opzbuddy'} className="nav-link">OP-Z Buddy</Link></Col>
-                <Col><Link to={'/opzbuddyprivacypolicy'} className="nav-link">OP-Z Buddy Privacy Policy</Link></Col>
+                <Col><Link to={'/opzbuddy/privacypolicy'} className="nav-link">OP-Z Buddy Privacy Policy</Link></Col>
               </Row>
             </Container> 
           </div>
@@ -28,9 +27,8 @@ function App() {
 
         <hr />
         <Switch>
-          <Route exact path='/' component={Home} />
           <Route path='/opzbuddy' component={OpzBuddy} />
-          <Route path='/opzbuddyprivacypolicy' component={OpzBuddyPrivacyPolicy} />
+          <Route path='/opzbuddy/privacypolicy' component={OpzBuddyPrivacyPolicy} />
         </Switch>
       </div>
     </Router>
