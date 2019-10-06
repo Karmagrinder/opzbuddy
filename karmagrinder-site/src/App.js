@@ -19,8 +19,8 @@ function App() {
           <div>
             <Container>
               <Row>
-                <Col><Link to={process.env.PUBLIC_URL + '/'} className="nav-link">OP-Z Buddy</Link></Col>
-                <Col><Link to={process.env.PUBLIC_URL + '/privacypolicy'} className="nav-link">Privacy Policy</Link></Col>
+                <Col><Link to='/' className="nav-link">OP-Z Buddy</Link></Col>
+                <Col><Link to='/privacypolicy' className="nav-link">Privacy Policy</Link></Col>
               </Row>
             </Container> 
           </div>
@@ -28,8 +28,8 @@ function App() {
 
         <hr />
         <Switch>
-          <Route exact path={process.env.PUBLIC_URL + '/'} component={OpzBuddy} />
-          <Route path={process.env.PUBLIC_URL +'/privacypolicy'} component={OpzBuddyPrivacyPolicy} />
+          <Route exact path='/'component={OpzBuddy} />
+          <Route path= '/privacypolicy' component={OpzBuddyPrivacyPolicy} />
         </Switch>
       </div>
     </Router>
