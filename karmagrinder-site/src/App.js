@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './res/sineWave.svg';
+import logo from './res/Float64Logo.svg';
 import './App.css';
 import OpzBuddy from './components/OpzBuddy/OpzBuddy'
 import OpzBuddyPrivacyPolicy from './components/OpzBuddyPrivacyPolicy/OpzBuddyPrivacyPolicy'
@@ -17,11 +17,9 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <div>
-            <Container>
-              <Row>
-                <Col><Link to='/' className="nav-link">OP-Z Buddy</Link></Col>
-                <Col><Link to='/privacypolicy' className="nav-link">Privacy Policy</Link></Col>
-              </Row>
+            <Container className="navigation-container">
+              <div><Link to='/' className="nav-link">OP-Z Buddy</Link></div>
+              <div><Link to='/privacypolicy' className="nav-link">Privacy-policy</Link></div>
             </Container> 
           </div>
         </header>
