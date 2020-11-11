@@ -1,24 +1,40 @@
 .App {
   text-align: left;
   padding: 25pt;
+  background-color: #484c50;
+  height: 100%;
 }
 
 .App-logo {
-  height: 5vmin;
+  height: 25vmin;
   padding: 5pt;
+  border-radius: 50%;
+  background-color: cadetblue;
+  margin: 0.5rem;
 }
 
 .App-header {
-  background-color: #ffffff;
+  background-color: #343a40;
   min-height: 5vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(10px + 1.5vmin);
   color: white;
+  border-radius: 6px;
 }
 
 .App-link {
   color: #09d3ac;
+}
+
+.navigation-container{
+  display: flex;
+  margin: 1rem;
+}
+
+.nav-link{
+  color: cadetblue;
+  font-size: 1.1rem;
 }
