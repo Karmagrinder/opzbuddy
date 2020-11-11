@@ -18,7 +18,7 @@ const OpzBuddy = props => (
 					<Card.Body>
 						<Card bg="dark" text="light">
 							<Card.Title className="title-text" >1. CONNECTING OP-Z TO PHONE</Card.Title>
-							<Card.Subtitle className="title-text">a) Via Bluetooth:</Card.Subtitle>
+							<Card.Subtitle className="subtitle-text">a) Via Bluetooth:</Card.Subtitle>
 							<Card.Body>
 								<Card.Text className="general-text">
 									You can use one of the many available Bluetooth-MIDI apps on the Google App store for connecting OP-Z to your phone via bluetooth.
@@ -28,7 +28,7 @@ const OpzBuddy = props => (
 								</Card.Text>
 								
 							</Card.Body>
-							<Card.Subtitle className="title-text">b) Via USB-Cable:</Card.Subtitle>
+							<Card.Subtitle className="subtitle-text">b) Via USB-Cable:</Card.Subtitle>
 							<Card.Body>
 								<Card.Text className="general-text">
 									Wait for 2-3 seconds after OP-Z has booted up and then connect OP-Z to your phone via USB-OTG adapter.
@@ -46,7 +46,7 @@ const OpzBuddy = props => (
 								</Card.Text>
 
 							</Card.Body>
-							<Card.Subtitle className="title-text">2.1 Android Q (10) Compatibility:</Card.Subtitle>
+							<Card.Subtitle className="subtitle-text">2.1 Android Q (10) Compatibility:</Card.Subtitle>
 							<Card.Body>
 								<Card.Text className="general-text">
 									On Android Q and above, recorded media will  be saved to the SD-Card or internal storage in case the SD-Card is not present.
@@ -70,7 +70,7 @@ const OpzBuddy = props => (
 								</Card.Text>
 
 							</Card.Body>
-							<Card.Subtitle className="title-text">3.1 Android Q (10) Compatibility:</Card.Subtitle>
+							<Card.Subtitle className="subtitle-text">3.1 Android Q (10) Compatibility:</Card.Subtitle>
 							<Card.Body>
 								<Card.Text className="general-text">
 									On Android Q and above OP-Z data backups will be saved to the "Download" folder.

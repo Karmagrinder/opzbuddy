@@ -33,3 +33,8 @@
   display: flex;
   margin: 1rem;
 }
+
+.nav-link{
+  color: cadetblue;
+  font-size: 1.1rem;
+}
